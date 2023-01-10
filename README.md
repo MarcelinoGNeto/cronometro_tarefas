@@ -2,6 +2,8 @@
 
 Projeto de um cronômetro para contar o tempo de estudo, desenvolvido durante curso de React com Typescript e SCSS, com funções de adicionar novas tarefas, estipular o tempo necessário, selecionar a tarefa desejada, iniciar o cronômetro e por fim marcar automaticamente como concluída ao final da contagem.
 
+> Veja como ficou: https://cronometro-tarefas.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
